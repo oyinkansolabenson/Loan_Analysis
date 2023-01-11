@@ -2,7 +2,7 @@
 ## By Oyinkansola Benson
 ## Dataset
 The dataset being used for this project is the Prosper loan Dataset, provided by Udacity. There are 113,937 loans in the dataset with 81 features. Most variables are numeric and categorical in nature.
-The dataset can be found [here](https://github.com/oyinkansolabenson/Loan_Analysis/raw/main/LoanData.csv) 
+The dataset can be found [here](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1581581520570000) 
 The dataset features two main categories:
 
 + Borrower information
